@@ -1,0 +1,2 @@
+/Animation/dead/bomb.png
+/Animation/dead2/dead.png

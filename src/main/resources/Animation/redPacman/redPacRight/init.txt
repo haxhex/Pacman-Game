@@ -1,0 +1,3 @@
+/Animation/redPacman/redPacRight/1.png
+/Animation/redPacman/redPacRight/2.png
+/Animation/redPacman/redPacRight/3.png
