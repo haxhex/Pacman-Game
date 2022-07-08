@@ -1,5 +1,4 @@
 # Pacman Game
-<p align="center">
 This is a 2D Pacman Game - Which was the second project for Advanced Programming
 
 Main Menu
@@ -19,5 +18,4 @@ Game Overview
 ![Screenshot 2022-07-08 223428](https://user-images.githubusercontent.com/99765893/178047895-09f00e7c-fb85-4bb5-8c0d-b467efdb1d9d.jpg)
 
 ![Screenshot 2022-07-08 223517](https://user-images.githubusercontent.com/99765893/178047934-2f5df9fe-c9c6-4eef-a12e-7637ee4452a5.jpg)
-</p>
 
