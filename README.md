@@ -1,5 +1,5 @@
 # Pacman Game
-This is a 2D Pacman Game - Which was the second project for Advanced Programming
+This is a 2D Pacman Game -- Which was the second project for Advanced Programming
 
 Main Menu
 
